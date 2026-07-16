@@ -1,4 +1,5 @@
 azure/key.txt
 data/datos_descargados.csv
+data/descarga_gcs_sales.csv
 datos_locales/
 gcp/account.json
